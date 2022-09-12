@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/az-tangsa/pa-tangsa/az-tangsa/xa-tangsa/awx-tangsa"
 );
-copyright = "Copyright 2022 Google LLC. All Rights Reserved.";
+copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)";
 customParameters = (
 {
 name = fsType;
@@ -122,15 +122,15 @@ value = GOOG;
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = versionString;
-value = "Version 1.503";
+value = "Version 1.504";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = Axes;
@@ -245,7 +245,6 @@ GSOffsetVertical = 3;
 verticalStems = (
 70
 );
-visible = 1;
 weightValue = 90;
 xHeight = 536;
 },
@@ -321,7 +320,6 @@ horizontalStems = (
 136
 );
 id = "134B12F2-BF5D-48E3-8003-C7502B438C7E";
-name = Bold;
 userData = {
 GSOffsetHorizontal = 8;
 GSOffsetKeepCompatible = 1;
@@ -330,7 +328,6 @@ GSOffsetVertical = 5;
 verticalStems = (
 124
 );
-visible = 1;
 weight = SemiBold;
 weightValue = 151;
 xHeight = 536;
@@ -15340,5 +15337,5 @@ UUID0 = {
 };
 };
 versionMajor = 1;
-versionMinor = 503;
+versionMinor = 504;
 }
