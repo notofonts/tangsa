@@ -1,9 +1,7 @@
 {
-.appVersion = "1361";
+.appVersion = "3109";
 DisplayStrings = (
-"/ma-tangsa/ez-tangsa/ec-tangsa/ma-tangsa/oc-tangsa/oq-tangsa/ox-tangsa/ox-tangsa/az-tangsa/ac-tangsa/aq-tangsa/ax-tangsa/vz-tangsa/vc-tangsa/vq-tangsa/vx-tangsa/eq-tangsa/ex-tangsa/iz-tangsa/ic-tangsa/iq-tangsa/ix-tangsa/uz-tangsa/uc-tangsa/uq-tangsa/oz-tangsa/ux-tangsa/oz-tangsa/awxshort-tangsa/nha-tangsa/ux-tangsa/awz-tangsa/awc-tangsa/awq-tangsa/awx-tangsa/uiz-tangsa/uic-tangsa \012/uiq-tangsa/uix-tangsa/ma-tangsa/ngfinal-tangsa/uexlong-tangsa/uezshort-tangsa/oz-tangsa/oz-tangsa/awxshort-tangsa/uec-tangsa/uez-tangsa/ueq-tangsa/uex-tangsa/uix-tangsa/uiuz-tangsa/uiuc-tangsa/uiuq-tangsa/oq-tangsa/uiux-tangsa/awz-tangsa/mz-tangsa/mc-tangsa/mq-tangsa/mx-tangsa/awx-tangsa/ka-tangsa/kha-tangsa/ga-tangsa/nga-tangsa/sa-tangsa/ya-tangsa/wa-tangsa/space \012/pa-tangsa/hta-tangsa/nya-tangsa/pha-tangsa/ta-tangsa/ba-tangsa/ma-tangsa/na-tangsa/ha-tangsa/la-tangsa/da-tangsa/iz-tangsa/ra-tangsa/nha-tangsa/sa-tangsa/sha-tangsa/ca-tangsa/tsa-tangsa/gha-tangsa/htta-tangsa/tha-tangsa/pa-tangsa/pa-tangsa/xa-tangsa/fa-tangsa/dha-tangsa/cha-tangsa/za-tangsa/zero-tangsa/one-tangsa/two-tangsa/three-tangsa/four-tangsa/five-tangsa/six-tangsa/seven-tangsa/eight-tangsa/nine-tangsa \012/ngfinal-tangsa/nha-tangsa/oz-tangsa/ma-tangsa/nha-tangsa/ma-tangsa/oc-tangsa/nha-tangsa/sa-tangsa/iz-tangsa/iz-tangsa/ic-tangsa/iq-tangsa/ix-tangsa/ra-tangsa \012/uiz-tangsa/uic-tangsa/uz-tangsa/uiuq-tangsa/uiux-tangsa/uix-tangsa/awx-tangsa/ka-tangsa/kha-tangsa/nga-tangsa/wa-tangsa/five-tangsa/eight-tangsa \012/ba-tangsa/ba-tangsa/Placeholder/la-tangsa/la-tangsa/uiuq-tangsa/uiuq-tangsa/Placeholder/uiuq-tangsa/uiuq-tangsa \012/mz-tangsa/mz-tangsa/Placeholder/mz-tangsa/mz-tangsa/zero-tangsa/zero-tangsa/Placeholder/zero-tangsa/zero-tangsa \012/nha-tangsa/nha-tangsa/Placeholder/oz-tangsa/oz-tangsa/aq-tangsa/aq-tangsa/Placeholder/sa-tangsa/sa-tangsa/space/space/space",
-"/sa-tangsa/ha-tangsa/tha-tangsa/uic-tangsa/ka-tangsa/uix-tangsa/mz-tangsa",
-"/ga-tangsa"
+"/az-tangsa/pa-tangsa/az-tangsa/xa-tangsa/awx-tangsa"
 );
 copyright = "Copyright 2022 Google LLC. All Rights Reserved.";
 customParameters = (
@@ -107,6 +105,10 @@ value = (
 );
 },
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = description;
 value = "Designed by David Williams.";
 },
@@ -127,6 +129,10 @@ name = versionString;
 value = "Version 1.503";
 },
 {
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
 name = Axes;
 value = (
 {
@@ -134,14 +140,6 @@ Name = Weight;
 Tag = wght;
 }
 );
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = "Use Typo Metrics";
-value = 1;
 }
 );
 date = "2022-01-07 12:46:52 +0000";
@@ -322,8 +320,8 @@ position = "{-90, 54}";
 horizontalStems = (
 136
 );
-iconName = SemiBold;
 id = "134B12F2-BF5D-48E3-8003-C7502B438C7E";
+name = Bold;
 userData = {
 GSOffsetHorizontal = 8;
 GSOffsetKeepCompatible = 1;
@@ -333,7 +331,7 @@ verticalStems = (
 124
 );
 visible = 1;
-weight = Bold;
+weight = SemiBold;
 weightValue = 151;
 xHeight = 536;
 }
@@ -7028,7 +7026,7 @@ subCategory = Other;
 },
 {
 glyphname = "pa-tangsa";
-lastChange = "2022-05-19 09:04:49 +0000";
+lastChange = "2022-09-12 08:41:42 +0000";
 layers = (
 {
 components = (
@@ -7051,6 +7049,7 @@ layerId = "134B12F2-BF5D-48E3-8003-C7502B438C7E";
 width = 1130;
 }
 );
+leftKerningGroup = "awx-tangsa";
 leftMetricsKey = "ex-tangsa";
 rightKerningGroup = "pa-tangsa";
 rightMetricsKey = "gha-tangsa";
@@ -8875,7 +8874,7 @@ subCategory = Other;
 },
 {
 glyphname = "xa-tangsa";
-lastChange = "2022-05-19 09:04:36 +0000";
+lastChange = "2022-09-12 08:43:09 +0000";
 layers = (
 {
 layerId = "9FF96064-8718-4A86-A5C8-73C592101F67";
@@ -9028,7 +9027,7 @@ nodes = (
 width = 1130;
 }
 );
-leftKerningGroup = "awx-tangsa";
+leftKerningGroup = "xa-tangsa";
 leftMetricsKey = "=|ex-tangsa";
 rightKerningGroup = "ex-tangsa";
 rightMetricsKey = "=|az-tangsa";
@@ -14586,7 +14585,12 @@ kerning = {
 "@MMK_L_mx-tangsa" = {
 "eight-tangsa" = -75;
 };
-"@MMK_L_pa-tangsa" = {
+"@MMK_L_uc-tangsa" = {
+"@MMK_R_oz-tangsa" = -10;
+"@MMK_R_uiuz-tangsa" = -15;
+"uiq-tangsa" = -15;
+};
+"@MMK_L_xa-tangsa" = {
 "@MMK_R_awx-tangsa" = -30;
 "@MMK_R_oz-tangsa" = -10;
 "eight-tangsa" = -40;
@@ -14595,11 +14599,6 @@ kerning = {
 "one-tangsa" = -15;
 "uc-tangsa" = -20;
 "uic-tangsa" = -35;
-"uiq-tangsa" = -15;
-};
-"@MMK_L_uc-tangsa" = {
-"@MMK_R_oz-tangsa" = -10;
-"@MMK_R_uiuz-tangsa" = -15;
 "uiq-tangsa" = -15;
 };
 "aq-tangsa" = {
@@ -14664,7 +14663,6 @@ kerning = {
 "nya-tangsa" = -40;
 "one-tangsa" = -40;
 "ox-tangsa" = -20;
-"pa-tangsa" = -10;
 "pha-tangsa" = -15;
 "sha-tangsa" = -20;
 "ta-tangsa" = -25;
@@ -14989,7 +14987,7 @@ kerning = {
 "htta-tangsa" = -20;
 "uiq-tangsa" = -10;
 };
-"@MMK_L_pa-tangsa" = {
+"@MMK_L_xa-tangsa" = {
 "@MMK_R_awx-tangsa" = -10;
 "@MMK_R_uec-tangsa" = -10;
 "@MMK_R_ueq-tangsa" = -20;
