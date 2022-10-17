@@ -86,7 +86,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-misalig
 
 	* W (U+0057) contains a short segment B<<516.0,375.0>-<513.0,386.0>-<508.5,408.0>> 
 
-	* And 90 more.
+	* And 89 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -182,7 +182,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* a (U+0061) contains a short segment L<<398.0,75.0>--<394.0,75.0>> 
 
-	* And 76 more.
+	* And 75 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -253,7 +253,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* W (U+0057) contains a short segment B<<468.0,577.5>-<463.0,600.0>-<461.0,609.0>> 
 
-	* And 77 more.
+	* And 76 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -325,7 +325,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* C (U+0043): X=485.5,Y=-2.0 (should be at baseline 0?) 
 
-	* And 67 more.
+	* And 66 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
@@ -353,7 +353,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-misalig
 
 	* a (U+0061) contains a short segment L<<397.0,75.0>--<393.0,75.0>> 
 
-	* And 70 more.
+	* And 69 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -388,7 +388,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* aztangsa (U+16A74): L<<176.0,714.0>--<177.0,453.0>> 
 
 	* And eighttangsa (U+16AC8): L<<319.0,407.0>--<320.0,0.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[7] NotoSansTangsa[wght].ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[6] NotoSansTangsa[wght].ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
 * 💔 **ERROR** The condition <FontBakeryCondition:expected_font_names> had an error: KeyError: 'fvar'
@@ -412,42 +412,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- _part.double
-
-	- _part.hta
-
-	- _part.loop1
-
-	- _part.loop2
-
-	- _part.loop3
-
-	- _part.loop4
-
-	- _part.loop5
-
-	- _part.loop6
-
-	- _part.sh1
-
-	- _part.sh2
-
-	- _part.single 
-
-	- And _part.uez
- [code: unreachable-glyphs]
 </div></details><br></div></details>
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 3 | 11 | 25 | 544 | 36 | 456 | 0 |
-| 0% | 1% | 2% | 51% | 3% | 42% | 0% |
+| 3 | 11 | 24 | 544 | 32 | 461 | 0 |
+| 0% | 1% | 2% | 51% | 3% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
