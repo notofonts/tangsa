@@ -5,7 +5,7 @@ DisplayStrings = (
 "/_part.loop3/_part.hta/ya-tangsa",
 "/_part.loop7/_part.loop7/_part.loop4/_part.hta/hta-tangsa/hta-tangsa/nya-tangsa/uexlong-tangsa/ya-tangsa",
 "/_part.loop7",
-"/xa-tangsa/nya-tangsa/_part.loop7/mx-tangsa/nya-tangsa/ma-tangsa/ya-tangsa/_part.loop7/ya-tangsa/uexlong-tangsa"
+"/xa-tangsa/nya-tangsa/_part.loop7/mx-tangsa/nya-tangsa/mx-tangsa/ya-tangsa/_part.loop7/ya-tangsa/uexlong-tangsa"
 );
 copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)";
 customParameters = (
@@ -6358,7 +6358,7 @@ subCategory = Other;
 },
 {
 glyphname = "mx-tangsa";
-lastChange = "2022-10-17 10:50:09 +0000";
+lastChange = "2022-10-17 11:04:11 +0000";
 layers = (
 {
 layerId = "9FF96064-8718-4A86-A5C8-73C592101F67";
@@ -6367,8 +6367,8 @@ paths = (
 closed = 1;
 nodes = (
 "403 0 LINE",
-"403 536 LINE",
-"333 536 LINE",
+"403 716 LINE",
+"333 716 LINE",
 "333 0 LINE"
 );
 },
@@ -6400,26 +6400,26 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"348 411 LINE",
-"340 334 OFFCURVE",
-"301 265 OFFCURVE",
-"218 265 CURVE SMOOTH",
-"148 265 OFFCURVE",
-"123 315 OFFCURVE",
-"123 392 CURVE SMOOTH",
-"123 453 OFFCURVE",
-"142 499 OFFCURVE",
-"156 535 CURVE",
-"77 555 LINE",
-"62 515 OFFCURVE",
-"47 463 OFFCURVE",
-"47 404 CURVE SMOOTH",
-"47 284 OFFCURVE",
-"108 189 OFFCURVE",
-"219 189 CURVE SMOOTH",
-"319 189 OFFCURVE",
-"376 258 OFFCURVE",
-"396 364 CURVE"
+"348 580 LINE",
+"340 503 OFFCURVE",
+"301 434 OFFCURVE",
+"218 434 CURVE SMOOTH",
+"148 434 OFFCURVE",
+"123 484 OFFCURVE",
+"123 561 CURVE SMOOTH",
+"123 622 OFFCURVE",
+"142 668 OFFCURVE",
+"156 704 CURVE",
+"77 724 LINE",
+"62 684 OFFCURVE",
+"47 632 OFFCURVE",
+"47 573 CURVE SMOOTH",
+"47 453 OFFCURVE",
+"108 358 OFFCURVE",
+"219 358 CURVE SMOOTH",
+"319 358 OFFCURVE",
+"376 427 OFFCURVE",
+"396 533 CURVE"
 );
 }
 );
