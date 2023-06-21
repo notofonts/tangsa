@@ -127,7 +127,7 @@ value = "https://scripts.sil.org/OFL";
 },
 {
 name = versionString;
-value = "Version 1.504";
+value = "Version 1.505";
 },
 {
 name = license;
