@@ -1,8 +1,7 @@
 {
 .appVersion = "3209";
 DisplayStrings = (
-"/az-tangsa/pa-tangsa/az-tangsa/xa-tangsa/awx-tangsa",
-"/tha-tangsa/xa-tangsa/eight-tangsa"
+"/az-tangsa/pa-tangsa/az-tangsa/xa-tangsa/awx-tangsa"
 );
 copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)";
 customParameters = (
